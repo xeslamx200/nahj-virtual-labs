@@ -1,0 +1,15 @@
+# Files that must never be uploaded by `vercel deploy` (the CLI also skips what .gitignore lists, but be explicit).
+.env
+.env.*
+!.env.example
+node_modules
+test-results
+playwright-report
+e2e
+docs
+scripts
+
+# The extracted textbook text is copyrighted Ministry material. It is NOT deployed by default, so the live
+# site runs without curriculum retrieval and says so. To deploy it to your own private Vercel project after
+# you have confirmed you are permitted to, delete the next line and deploy with the CLI (never via a public repo).
+server/textbook/index.json

@@ -1,0 +1,645 @@
+[
+ {
+  "id": "E1",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "ما قانون أوم؟",
+  "gold": [
+   [
+    "physics",
+    129,
+    132
+   ]
+  ],
+  "evidence": "أوم"
+ },
+ {
+  "id": "E2",
+  "kind": "paraphrase",
+  "lab": "electricity",
+  "q": "كيف ترتبط شدة التيار بفرق الجهد والمقاومة في الموصل؟",
+  "gold": [
+   [
+    "physics",
+    129,
+    132
+   ]
+  ],
+  "evidence": "مقاومة"
+ },
+ {
+  "id": "E3",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "State Ohm's law",
+  "gold": [
+   [
+    "physics",
+    129,
+    132
+   ]
+  ],
+  "evidence": "أوم"
+ },
+ {
+  "id": "E4",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "كيف أحسب المقاومة المكافئة لثلاث مقاومات على التوالي؟",
+  "gold": [
+   [
+    "physics",
+    137,
+    143
+   ]
+  ],
+  "evidence": "توالي"
+ },
+ {
+  "id": "E5",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "ما الفرق بين التوالي والتوازي في الدوائر الكهربائية؟",
+  "gold": [
+   [
+    "physics",
+    137,
+    143
+   ]
+  ],
+  "evidence": "توازي"
+ },
+ {
+  "id": "E6",
+  "kind": "paraphrase",
+  "lab": "electricity",
+  "q": "لماذا تكون إضاءة المصابيح أكبر عند توصيلها على التوازي؟",
+  "gold": [
+   [
+    "physics",
+    139,
+    143
+   ]
+  ],
+  "evidence": "توازي"
+ },
+ {
+  "id": "E7",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "ما القدرة الكهربائية وكيف تحسب؟",
+  "gold": [
+   [
+    "physics",
+    144,
+    147
+   ]
+  ],
+  "evidence": "قدره"
+ },
+ {
+  "id": "E8",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "How is electrical power calculated?",
+  "gold": [
+   [
+    "physics",
+    144,
+    147
+   ]
+  ],
+  "evidence": "قدره"
+ },
+ {
+  "id": "E9",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "ما هي شدة التيار الكهربائي؟",
+  "gold": [
+   [
+    "physics",
+    120,
+    123
+   ]
+  ],
+  "evidence": "شدة"
+ },
+ {
+  "id": "E10",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "ما هو الأمبير؟",
+  "gold": [
+   [
+    "physics",
+    122,
+    123
+   ]
+  ],
+  "evidence": "امبير"
+ },
+ {
+  "id": "E11",
+  "kind": "direct",
+  "lab": "electricity",
+  "q": "what is an ampere",
+  "gold": [
+   [
+    "physics",
+    122,
+    123
+   ]
+  ],
+  "evidence": "امبير"
+ },
+ {
+  "id": "E12",
+  "kind": "ambiguous",
+  "lab": "electricity",
+  "q": "ما هو التيار؟",
+  "gold": [
+   [
+    "physics",
+    120,
+    123
+   ]
+  ],
+  "evidence": "تير"
+ },
+ {
+  "id": "E13",
+  "kind": "multi",
+  "lab": "electricity",
+  "q": "احسب التيار المار في مقاومتين على التوالي إذا عُلم فرق جهد البطارية",
+  "gold": [
+   [
+    "physics",
+    129,
+    132
+   ],
+   [
+    "physics",
+    137,
+    143
+   ]
+  ],
+  "evidence": [
+   "أوم",
+   "توالي"
+  ]
+ },
+ {
+  "id": "M1",
+  "kind": "direct",
+  "lab": "motion",
+  "q": "ما الفرق بين المسافة والإزاحة؟",
+  "gold": [
+   [
+    "physics",
+    38,
+    60
+   ]
+  ],
+  "evidence": "الإزاحة"
+ },
+ {
+  "id": "M2",
+  "kind": "direct",
+  "lab": "motion",
+  "q": "ما الفرق بين السرعة والسرعة المتجهة؟",
+  "gold": [
+   [
+    "physics",
+    56,
+    66
+   ]
+  ],
+  "evidence": "سرع"
+ },
+ {
+  "id": "M3",
+  "kind": "direct",
+  "lab": "motion",
+  "q": "كيف أحسب التسارع؟",
+  "gold": [
+   [
+    "physics",
+    66,
+    78
+   ]
+  ],
+  "evidence": "تسارع"
+ },
+ {
+  "id": "M4",
+  "kind": "paraphrase",
+  "lab": "motion",
+  "q": "How do I find displacement from a velocity-time graph?",
+  "gold": [
+   [
+    "physics",
+    70,
+    82
+   ]
+  ],
+  "evidence": "الإزاحة"
+ },
+ {
+  "id": "M5",
+  "kind": "paraphrase",
+  "lab": "motion",
+  "q": "ماذا يمثل ميل منحنى الموقع مقابل الزمن؟",
+  "gold": [
+   [
+    "physics",
+    58,
+    72
+   ]
+  ],
+  "evidence": "ميل"
+ },
+ {
+  "id": "M6",
+  "kind": "direct",
+  "lab": "motion",
+  "q": "ما معادلات الحركة بتسارع ثابت؟",
+  "gold": [
+   [
+    "physics",
+    70,
+    80
+   ]
+  ],
+  "evidence": "تسارع"
+ },
+ {
+  "id": "M7",
+  "kind": "direct",
+  "lab": "motion",
+  "q": "ما الكميات المتجهة والكميات القياسية؟",
+  "gold": [
+   [
+    "physics",
+    38,
+    55
+   ]
+  ],
+  "evidence": "متجه"
+ },
+ {
+  "id": "M8",
+  "kind": "ambiguous",
+  "lab": "motion",
+  "q": "ما هي السرعة؟",
+  "gold": [
+   [
+    "physics",
+    56,
+    66
+   ]
+  ],
+  "evidence": "سرع"
+ },
+ {
+  "id": "H1",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "ما الفرق بين درجة الحرارة والحرارة؟",
+  "gold": [
+   [
+    "physics",
+    90,
+    99
+   ]
+  ],
+  "evidence": "حرار"
+ },
+ {
+  "id": "H2",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "كيف أحول درجة الحرارة من سلزيوس إلى فهرنهايت؟",
+  "gold": [
+   [
+    "physics",
+    92,
+    98
+   ]
+  ],
+  "evidence": "فهرنهايت"
+ },
+ {
+  "id": "H3",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "ما السعة الحرارية النوعية؟",
+  "gold": [
+   [
+    "physics",
+    100,
+    110
+   ]
+  ],
+  "evidence": "سعه"
+ },
+ {
+  "id": "H4",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "What is specific heat capacity?",
+  "gold": [
+   [
+    "physics",
+    100,
+    110
+   ]
+  ],
+  "evidence": "سعه"
+ },
+ {
+  "id": "H5",
+  "kind": "paraphrase",
+  "lab": "heat",
+  "q": "لماذا تبقى درجة الحرارة ثابتة أثناء انصهار الجليد؟",
+  "gold": [
+   [
+    "physics",
+    104,
+    114
+   ]
+  ],
+  "evidence": "انصهر"
+ },
+ {
+  "id": "H6",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "ما الحرارة الكامنة النوعية للانصهار؟",
+  "gold": [
+   [
+    "physics",
+    106,
+    114
+   ]
+  ],
+  "evidence": "كامن"
+ },
+ {
+  "id": "H7",
+  "kind": "paraphrase",
+  "lab": "heat",
+  "q": "كيف أحسب كمية الطاقة اللازمة لرفع حرارة كتلة من الماء؟",
+  "gold": [
+   [
+    "physics",
+    100,
+    112
+   ]
+  ],
+  "evidence": "سعه"
+ },
+ {
+  "id": "H8",
+  "kind": "direct",
+  "lab": "heat",
+  "q": "ما أهمية ارتفاع السعة الحرارية النوعية للماء؟",
+  "gold": [
+   [
+    "physics",
+    100,
+    117
+   ]
+  ],
+  "evidence": "مناخ"
+ },
+ {
+  "id": "C1",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "ما الفرق بين الدورات والمجموعات في الجدول الدوري؟",
+  "gold": [
+   [
+    "chemistry",
+    4,
+    21
+   ]
+  ],
+  "evidence": "دور"
+ },
+ {
+  "id": "C2",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "كيف يتغير نصف القطر الذري عبر الدورة؟",
+  "gold": [
+   [
+    "chemistry",
+    22,
+    31
+   ]
+  ],
+  "evidence": "قطر"
+ },
+ {
+  "id": "C3",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "Why does atomic radius increase down a group?",
+  "gold": [
+   [
+    "chemistry",
+    22,
+    31
+   ]
+  ],
+  "evidence": "قطر"
+ },
+ {
+  "id": "C4",
+  "kind": "paraphrase",
+  "lab": "chemistry",
+  "q": "لماذا تعد الفلزات القلوية أنشط الفلزات؟",
+  "gold": [
+   [
+    "chemistry",
+    32,
+    49
+   ]
+  ],
+  "evidence": "قلوي"
+ },
+ {
+  "id": "C5",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "ما ألوان اللهب للعناصر؟",
+  "gold": [
+   [
+    "chemistry",
+    32,
+    49
+   ]
+  ],
+  "evidence": "لهب"
+ },
+ {
+  "id": "C6",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "كيف أوازن المعادلة الكيميائية؟",
+  "gold": [
+   [
+    "chemistry",
+    66,
+    79
+   ]
+  ],
+  "evidence": "معادل"
+ },
+ {
+  "id": "C7",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "كيف أحسب عدد المولات من الكتلة؟",
+  "gold": [
+   [
+    "chemistry",
+    80,
+    101
+   ]
+  ],
+  "evidence": "مول"
+ },
+ {
+  "id": "C8",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "ما الموالرية وكيف أحسب تركيز المحلول؟",
+  "gold": [
+   [
+    "chemistry",
+    80,
+    101
+   ]
+  ],
+  "evidence": "مولري"
+ },
+ {
+  "id": "C9",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "كيف أحسب النسبة المئوية بالكتلة لعنصر في مركب؟",
+  "gold": [
+   [
+    "chemistry",
+    52,
+    65
+   ]
+  ],
+  "evidence": "نسب"
+ },
+ {
+  "id": "C10",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "ما حجم مول واحد من الغاز في الظروف المعيارية؟",
+  "gold": [
+   [
+    "chemistry",
+    80,
+    101
+   ]
+  ],
+  "evidence": "غاز"
+ },
+ {
+  "id": "C11",
+  "kind": "direct",
+  "lab": "chemistry",
+  "q": "ما هو عدد أفوجادرو؟",
+  "gold": [
+   [
+    "chemistry",
+    80,
+    101
+   ]
+  ],
+  "evidence": "افوجادرو"
+ },
+ {
+  "id": "C12",
+  "kind": "multi",
+  "lab": "chemistry",
+  "q": "كيف أحسب كتلة الناتج من كتلة معينة من المتفاعل بعد موازنة المعادلة؟",
+  "gold": [
+   [
+    "chemistry",
+    66,
+    79
+   ],
+   [
+    "chemistry",
+    80,
+    101
+   ]
+  ],
+  "evidence": "معادل"
+ },
+ {
+  "id": "C13",
+  "kind": "ambiguous",
+  "lab": "chemistry",
+  "q": "ما هو المول؟",
+  "gold": [
+   [
+    "chemistry",
+    50,
+    101
+   ]
+  ],
+  "evidence": "مول"
+ },
+ {
+  "id": "X1",
+  "kind": "out",
+  "lab": "electricity",
+  "q": "كيف تتم عملية البناء الضوئي في النبات؟"
+ },
+ {
+  "id": "X2",
+  "kind": "out",
+  "lab": "heat",
+  "q": "من هو نابليون بونابرت؟"
+ },
+ {
+  "id": "X3",
+  "kind": "out",
+  "lab": "motion",
+  "q": "ما هي عاصمة دولة قطر؟"
+ },
+ {
+  "id": "X4",
+  "kind": "out",
+  "lab": "chemistry",
+  "q": "What is DNA and how does it replicate?"
+ },
+ {
+  "id": "X5",
+  "kind": "out",
+  "lab": "electricity",
+  "q": "كيف أصمم موقعا إلكترونيا؟"
+ },
+ {
+  "id": "X6",
+  "kind": "out",
+  "lab": "motion",
+  "q": "Who won the football World Cup in 2022?"
+ },
+ {
+  "id": "X7",
+  "kind": "out",
+  "lab": "heat",
+  "q": "ما وظائف الجهاز الهضمي في جسم الإنسان؟"
+ }
+]

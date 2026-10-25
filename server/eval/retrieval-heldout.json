@@ -1,0 +1,14 @@
+[
+  { "id": "HO1", "kind": "direct", "lab": "electricity", "q": "ما وحدة قياس فرق الجهد الكهربائي؟", "gold": [["physics", 120, 135]], "evidence": "فولت" },
+  { "id": "HO2", "kind": "paraphrase", "lab": "electricity", "q": "ماذا يحدث للتيار الكلي عند إضافة فرع جديد على التوازي؟", "gold": [["physics", 137, 147]], "evidence": "توازي" },
+  { "id": "HO3", "kind": "paraphrase", "lab": "motion", "q": "ماذا تعني السرعة المتجهة السالبة؟", "gold": [["physics", 56, 70]], "evidence": "سالب" },
+  { "id": "HO4", "kind": "direct", "lab": "motion", "q": "What is acceleration?", "gold": [["physics", 66, 80]], "evidence": "تسارع" },
+  { "id": "HO5", "kind": "direct", "lab": "heat", "q": "ما الفرق بين الحرارة الكامنة للانصهار والحرارة الكامنة للتبخر؟", "gold": [["physics", 106, 117]], "evidence": "تبخر" },
+  { "id": "HO6", "kind": "direct", "lab": "heat", "q": "ما معنى الاتزان الحراري؟", "gold": [["physics", 90, 99]], "evidence": "اتزن" },
+  { "id": "HO7", "kind": "paraphrase", "lab": "chemistry", "q": "لماذا يزداد نصف القطر الذري كلما نزلنا في المجموعة؟", "gold": [["chemistry", 22, 31]], "evidence": "قطر" },
+  { "id": "HO8", "kind": "direct", "lab": "chemistry", "q": "ما الأيونات المتفرجة في المعادلة الأيونية النهائية؟", "gold": [["chemistry", 66, 79]], "evidence": "متفرج" },
+  { "id": "HO9", "kind": "direct", "lab": "chemistry", "q": "كيف أحضر محلولا قياسيا من كبريتات النحاس؟", "gold": [["chemistry", 80, 101]], "evidence": "نحاس" },
+  { "id": "HO10", "kind": "out", "lab": "chemistry", "q": "ما الفرق بين الخلية الحيوانية والخلية النباتية؟" },
+  { "id": "HO11", "kind": "out", "lab": "electricity", "q": "What is the plot of the play Hamlet?" },
+  { "id": "HO12", "kind": "out", "lab": "heat", "q": "كيف أحصل على وظيفة في شركة كبيرة؟" }
+]
